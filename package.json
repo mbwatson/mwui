@@ -1,8 +1,8 @@
 {
-  "name": "mwui",
-  "version": "1.0.0",
+  "name": "@mwatson/mwui",
+  "version": "1.0.1",
   "description": "mwui",
-  "author": "mbwatson",
+  "author": "mwatson",
   "license": "MIT",
   "repository": "mbwatson/mwui",
   "main": "dist/index.js",
